@@ -1785,6 +1785,7 @@ ul {
   -ms-hyphens: auto;
   -webkit-hyphens: auto;
   word-break: break-word;
+  word-wrap: break-word;
   font-family: $text_font;
   line-height: 1.6;
 }
@@ -3423,6 +3424,7 @@ ul {
   -ms-hyphens: auto;
   -webkit-hyphens: auto;
   word-break: break-word;
+  word-wrap: break-word;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -3478,6 +3480,7 @@ ul {
   -ms-hyphens: auto;
   -webkit-hyphens: auto;
   word-break: break-word;
+  word-wrap: break-word;
   margin: 15px 0;
   flex-basis: 100%;
 }
@@ -3720,6 +3723,7 @@ ul {
   -ms-hyphens: auto;
   -webkit-hyphens: auto;
   word-break: break-word;
+  word-wrap: break-word;
   padding: 20px 0;
   position: relative;
 }
@@ -3896,6 +3900,7 @@ ul {
   -ms-hyphens: auto;
   -webkit-hyphens: auto;
   word-break: break-word;
+  word-wrap: break-word;
   margin: 0;
   min-width: 0;
   width: 100%;
